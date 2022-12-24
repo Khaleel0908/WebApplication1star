@@ -1,0 +1,7 @@
+hello world
+learn the lanuguage DevopS
+LEARN DEVOPS 
+AWS
+JENKINS
+KUBERNETS/DOCKER
+
